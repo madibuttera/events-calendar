@@ -1,3 +1,47 @@
 html {
   font-family: Merriweather, serif;
 }
+
+.grey {
+  background-color: #ccc;
+  border-color: #666;
+  color: #333;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border-color: #b92828;
+  color: #991919;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border-color: #6b7e54;
+  color: #6b7e54;
+}
+
+.purple {
+  background-color: #d2d6f0;
+  border-color: #1d38da;
+  color: #38448e;
+}
+
+div {
+  border: 1px solid;
+  border-radius: 8px;
+}
+
+tbody td {
+  height: 8.5rem;
+  border-bottom-color: #ccc;
+}
+
+table {
+  border-radius: 1px;
+  border: solid;
+  border-color: #f2f2f2;
+}
+
+th {
+  border-bottom-color: #ccc;
+}
