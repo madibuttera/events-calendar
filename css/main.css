@@ -6,28 +6,24 @@ html {
   background-color: #ccc;
   border-color: #666;
   color: #333;
-  padding: .5em;
 }
 
 .red {
   background-color: #f2bcbc;
   border-color: #b92828;
   color: #991919;
-  padding: .5em;
 }
 
 .green {
   background-color: #d1e0bf;
   border-color: #6b7e54;
   color: #51603f;
-  padding: .5em;
 }
 
 .purple {
   background-color: #d2d6f0;
   border-color: #1d38da;
   color: #38448e;
-  padding: .5em;
 }
 
 div {
@@ -41,9 +37,7 @@ tbody td {
 }
 
 table {
-  border-radius: 1px;
-  border: solid;
-  border-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
 }
 
 th {
