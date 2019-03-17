@@ -2,6 +2,19 @@ html {
   font-family: Merriweather, serif;
 }
 
+tbody td {
+  height: 8.5rem;
+  border-bottom-color: #ccc;
+}
+
+table {
+  border: 1px solid #f2f2f2;
+}
+
+th {
+  border-bottom-color: #ccc;
+}
+
 .grey {
   background-color: #ccc;
   border-color: #666;
@@ -29,17 +42,4 @@ html {
 div {
   border: 1px solid;
   border-radius: 8px;
-}
-
-tbody td {
-  height: 8.5rem;
-  border-bottom-color: #ccc;
-}
-
-table {
-  border: 1px solid #f2f2f2;
-}
-
-th {
-  border-bottom-color: #ccc;
 }
